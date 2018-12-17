@@ -1,6 +1,4 @@
-export default () => {
-    alert('it works!');
-  };
+
   import './main.css';
   import Fireworks from 'fireworks-canvas';
  
